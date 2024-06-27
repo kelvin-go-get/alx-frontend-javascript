@@ -1,0 +1,6 @@
+# Ignore node_modules directory
+/node_modules/
+
+# Ignore any other files or directories you don't want to track
+# Example: ignore log files
+*.log
